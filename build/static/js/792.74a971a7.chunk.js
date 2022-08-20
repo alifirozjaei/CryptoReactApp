@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcryptocurrency=self.webpackChunkcryptocurrency||[]).push([[792],{3792:function(e,t,c){c.r(t);c(2791);var n=c(184);t.default=function(){return(0,n.jsx)("div",{className:"h-auto w-full grow flex justify-center items-center ",children:(0,n.jsxs)("div",{className:"text-2xl font-bold text-center",children:["Exchanges",(0,n.jsx)("div",{className:"text-lg text-slate-600 font-medium",children:"Comming Soon!"})]})})}}}]);
+//# sourceMappingURL=792.74a971a7.chunk.js.map

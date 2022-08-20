@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcryptocurrency=self.webpackChunkcryptocurrency||[]).push([[29],{5029:function(e,c,s){s.r(c);s(2791);var l=s(184);c.default=function(){return(0,l.jsxs)("div",{className:"w-full h-full flex my-0 justify-center items-center divide-x font-extrabold text-3xl",children:[(0,l.jsx)("div",{className:"p-8",children:"404"}),(0,l.jsxs)("div",{className:"p-8",children:["Page Not Found!",(0,l.jsx)("p",{className:"text-lg",children:"Please check url."})]})]})}}}]);
+//# sourceMappingURL=29.f9cace44.chunk.js.map
