@@ -1,4 +1,4 @@
-# <a href="https://cryptoapp99.netlify.app" target='_blank'> Crypto App </a>
+# <a href="https://cryptoapp99.netlify.app" target="_blank"> Crypto App </a>
 # Getting Started with Create React App
 <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
